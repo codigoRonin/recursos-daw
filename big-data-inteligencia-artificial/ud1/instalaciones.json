@@ -1,0 +1,11 @@
+{
+  "servicio": "Servicio comarcal de deportes (datos ficticios de aula)",
+  "instalaciones": [
+    {"id": "PIS-01", "nombre": "Piscina municipal", "localidad": "Ejea de los Caballeros", "tipo": "piscina", "aforo": 600},
+    {"id": "PAB-02", "nombre": "Pabellón polideportivo", "localidad": "Tauste", "tipo": "pabellon", "aforo": 500},
+    {"id": "CAM-03", "nombre": "Campo de fútbol", "localidad": "Sádaba", "tipo": "campo", "aforo": 300},
+    {"id": "PIS-04", "nombre": "Piscina de verano", "localidad": "Luna", "tipo": "piscina", "aforo": 250},
+    {"id": "PAB-05", "nombre": "Pabellón cubierto", "localidad": "Ejea de los Caballeros", "tipo": "pabellon", "aforo": 1200},
+    {"id": "CAM-06", "nombre": "Campo de fútbol", "localidad": "Biota", "tipo": "campo", "aforo": 200}
+  ]
+}

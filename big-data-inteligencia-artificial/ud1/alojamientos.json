@@ -1,0 +1,8 @@
+{
+  "red": "Alojamientos rurales de las Cinco Villas (datos ficticios de aula)",
+  "alojamientos": [
+    {"nombre": "Casa Rural El Cierzo", "localidad": "Uncastillo", "plazas": 8, "latitud": 42.36, "longitud": -1.13},
+    {"nombre": "Apartamentos Las Bardenas", "localidad": "Sádaba", "plazas": 4, "latitud": 42.28, "longitud": -1.27},
+    {"nombre": "Hostal Sierra de Luna", "localidad": "Luna", "plazas": 12, "latitud": 42.17, "longitud": -0.93}
+  ]
+}
