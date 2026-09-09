@@ -37,5 +37,4 @@ Ningún fichero de este repositorio contiene datos personales reales.
 
 ---
 
-*Recursos mantenidos por el profesorado de DAW del IES Río Arba, como complemento del sitio de apuntes.*
 
