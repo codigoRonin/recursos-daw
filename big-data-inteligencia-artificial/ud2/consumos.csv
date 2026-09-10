@@ -1,0 +1,76 @@
+edificio_id,edificio,mes,kwh,coste_eur,contacto_tecnico
+EDI-01,Casa consistorial,2025-01,6410,1226.59,tecnico.tauste@example.org
+EDI-01,Casa consistorial,2025-02,5815,1056.09,tecnico.tauste@example.org
+EDI-01,Casa consistorial,2025-03,4949,1036.81,tecnico.tauste@example.org
+EDI-01,Casa consistorial,2025-04,4708,835.51,tecnico.tauste@example.org
+EDI-01,Casa consistorial,2025-05,4675,921.75,tecnico.tauste@example.org
+EDI-01,Casa consistorial,2025-06,4157,721.69,tecnico.tauste@example.org
+EDI-01,Casa consistorial,2025-07,3970,816.69,tecnico.tauste@example.org
+EDI-01,Casa consistorial,2025-08,4776,897.7,tecnico.tauste@example.org
+EDI-01,Casa consistorial,2025-09,4973,878.82,tecnico.tauste@example.org
+EDI-01,Casa consistorial,2025-10,5264,929.04,tecnico.tauste@example.org
+EDI-01,Casa consistorial,2025-11,5730,1115.73,tecnico.tauste@example.org
+EDI-01,Casa consistorial,2025-12,5720,1073.77,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,08/2025,26811,4635.93,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-01,30777,5903.65,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-02,27993,4947.41,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-03,25532,4784.35,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-04,26910,5314.24,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-05,22116,4043.78,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-06,23255,4147.4,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-06,23255,4147.4,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-07,19780,3802.62,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-09,23994,4565.98,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-10,28262,5093.77,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-11,29140,5202.86,tecnico.tauste@example.org
+EDI-02,Pabellón polideportivo,2025-12,31855,6023.86,tecnico.tauste@example.org
+EDI-03,Colegio público,2025-01,22096,4200.68,mantenimiento.ejea@example.org
+EDI-03,Colegio público,2025-02,23077,4144.4,mantenimiento.ejea@example.org
+EDI-03,Colegio público,2025-03,19882,4223.43,mantenimiento.ejea@example.org
+EDI-03,Colegio público,2025-04,19307,3587.54,mantenimiento.ejea@example.org
+EDI-03,Colegio público,2025-05,-1,3248.17,mantenimiento.ejea@example.org
+EDI-03,Colegio público,2025-06,16386,3172.01,mantenimiento.ejea@example.org
+EDI-03,Colegio público,2025-07,4427,826.83,mantenimiento.ejea@example.org
+EDI-03,Colegio público,2025-08,4682,875.39,mantenimiento.ejea@example.org
+EDI-03,Colegio público,2025-09,19847,3763.77,mantenimiento.ejea@example.org
+EDI-03,Colegio público,2025-10,20479,3854.9,mantenimiento.ejea@example.org
+EDI-03,Colegio público,2025-11,21633,3956.23,mantenimiento.ejea@example.org
+EDI-03,Colegio público,2025-12,23104,4595.43,mantenimiento.ejea@example.org
+EDI-04,Piscina cubierta,02/2025,18930,3604.48,mantenimiento.ejea@example.org
+EDI-04,Piscina cubierta,2025-01,24220,4342.21,mantenimiento.ejea@example.org
+EDI-04,Piscina cubierta,2025-03,21.843,3933.16,mantenimiento.ejea@example.org
+EDI-04,Piscina cubierta,2025-04,17915,3530.24,mantenimiento.ejea@example.org
+EDI-04,Piscina cubierta,2025-05,17270,3507.08,mantenimiento.ejea@example.org
+EDI-04,PISCINA CUBIERTA,2025-06,14127,2517.91,mantenimiento.ejea@example.org
+EDI-04, Piscina cubierta,2025-07,20338,3824.93,mantenimiento.ejea@example.org
+EDI-04,Piscina cubierta,2025-08,21088,3928.39,mantenimiento.ejea@example.org
+EDI-04,Piscina cubierta,2025-09,19918,3773.24,mantenimiento.ejea@example.org
+EDI-04,Piscina cubierta,2025-10,20686,4541.21,mantenimiento.ejea@example.org
+EDI-04,Piscina cubierta,2025-11,21730,4332.24,mantenimiento.ejea@example.org
+EDI-04,Piscina cubierta,2025-12,24513,4423.63,mantenimiento.ejea@example.org
+EDI-05,Centro de día,2025-01,8629,1680.31,r.lacasa@example.org
+EDI-05,Centro de día,2025-02,8763,1803.44,r.lacasa@example.org
+EDI-05,Centro de día,2025-03,7359,1346.4,r.lacasa@example.org
+EDI-05,Centro de día,2025-04,7822,1409.75,r.lacasa@example.org
+EDI-05,Centro de día,2025-04,7822,1409.75,r.lacasa@example.org
+EDI-05,Centro de día,2025-05,6318,1292.85,r.lacasa@example.org
+EDI-05,Centro de día,2025-06,6223,1174.83,r.lacasa@example.org
+EDI-05,Centro de día,2025-07,6121,1200.47,r.lacasa@example.org
+EDI-05,Centro de día,2025-08,6370,1104.06,r.lacasa@example.org
+EDI-05,Centro de día,2025-09,7665,1517.25,r.lacasa@example.org
+EDI-05,Centro de día,2025-10,8161,1526.16,r.lacasa@example.org
+EDI-05,Centro de día,2025-11,7592,1508.13,r.lacasa@example.org
+EDI-05,Centro de día,2025-11,7592,1508.13,r.lacasa@example.org
+EDI-05,Centro de día,2025-12,8991,1590.2,r.lacasa@example.org
+EDI-06,Biblioteca,2025-01,2448,,biblio.luna@example.org
+EDI-06,Biblioteca,2025-02,2469,463.73,biblio.luna@example.org
+EDI-06,Biblioteca,2025-03,,466.42,biblio.luna@example.org
+EDI-06,Biblioteca,2025-04,2352,434.98,biblio.luna@example.org
+EDI-06,Biblioteca,2025-05,1953,375.64,biblio.luna@example.org
+EDI-06,Biblioteca,2025-06,1839,340.37,biblio.luna@example.org
+EDI-06,Biblioteca,2025-07,1963,380.85,biblio.luna@example.org
+EDI-06,Biblioteca,2025-08,-1,364.78,biblio.luna@example.org
+EDI-06,Biblioteca,2025-09,2158,409.57,biblio.luna@example.org
+EDI-06,Biblioteca,2025-10,,436.58,biblio.luna@example.org
+EDI-06,Biblioteca,2025-11,2522,513.48,biblio.luna@example.org
+EDI-06,Biblioteca,2025-12,2489,476.42,biblio.luna@example.org

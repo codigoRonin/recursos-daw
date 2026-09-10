@@ -1,0 +1,39 @@
+{
+  "red": "Red comarcal de calidad del aire de las Cinco Villas (datos ficticios de aula)",
+  "unidades": {
+    "no2": "µg/m³",
+    "pm10": "µg/m³",
+    "o3": "µg/m³",
+    "temperatura": "°C"
+  },
+  "estaciones": [
+    {
+      "id": "EST-01",
+      "localidad": "Ejea de los Caballeros",
+      "tipo": "urbana",
+      "latitud": 42.13,
+      "longitud": -1.14
+    },
+    {
+      "id": "EST-02",
+      "localidad": "Tauste",
+      "tipo": "trafico",
+      "latitud": 41.92,
+      "longitud": -1.25
+    },
+    {
+      "id": "EST-03",
+      "localidad": "Sádaba",
+      "tipo": "rural",
+      "latitud": 42.28,
+      "longitud": -1.27
+    },
+    {
+      "id": "EST-04",
+      "localidad": "Luna",
+      "tipo": "rural",
+      "latitud": 42.17,
+      "longitud": -0.93
+    }
+  ]
+}

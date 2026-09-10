@@ -1,0 +1,47 @@
+{
+  "servicio": "Servicio comarcal de mantenimiento de edificios (datos ficticios de aula)",
+  "edificios": [
+    {
+      "id": "EDI-01",
+      "nombre": "Casa consistorial",
+      "localidad": "Tauste",
+      "tipo": "administrativo",
+      "superficie_m2": 1200
+    },
+    {
+      "id": "EDI-02",
+      "nombre": "Pabellón polideportivo",
+      "localidad": "Tauste",
+      "tipo": "deportivo",
+      "superficie_m2": 2400
+    },
+    {
+      "id": "EDI-03",
+      "nombre": "Colegio público",
+      "localidad": "Ejea de los Caballeros",
+      "tipo": "educativo",
+      "superficie_m2": 3100
+    },
+    {
+      "id": "EDI-04",
+      "nombre": "Piscina cubierta",
+      "localidad": "Ejea de los Caballeros",
+      "tipo": "deportivo",
+      "superficie_m2": 1800
+    },
+    {
+      "id": "EDI-05",
+      "nombre": "Centro de día",
+      "localidad": "Sádaba",
+      "tipo": "social",
+      "superficie_m2": 900
+    },
+    {
+      "id": "EDI-06",
+      "nombre": "Biblioteca",
+      "localidad": "Luna",
+      "tipo": "cultural",
+      "superficie_m2": 450
+    }
+  ]
+}

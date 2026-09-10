@@ -1,0 +1,31 @@
+id,fecha,localidad,codigo_postal,edad,sexo,correo,texto
+1,2026-06-09,Sádaba,50670,81,F,a.garcia@example.org,"Llevamos tres días con olor a quemado, mi madre es mayor y tose mucho."
+2,2026-06-27,Sádaba,50670,31,M,luisa_92@example.org,"Humo en la zona del río, parece una hoguera."
+3,2026-06-12,Ejea de los Caballeros,50600,65,M,jvillanueva@example.org,"Mucho polvo en el aire, los coches amanecieron cubiertos de arena."
+4,2026-04-05,Luna,50610,25,F,pepe.t@example.org,"Olor a quemado toda la tarde, creo que vienen de las granjas del camino."
+5,2026-05-04,Ejea de los Caballeros,50600,45,F,marta.lm@example.org,Olor a purín muy fuerte desde el mediodía.
+6,2026-05-14,Sádaba,50670,61,NS/NC,rgimenez@example.org,"Llevamos tres días con olor a quemado, mi madre es mayor y tose mucho."
+7,2026-05-19,Tauste,50660,68,F,c.ochoa@example.org,"Olor a plástico quemado por la noche, cerca del polígono."
+8,2026-06-11,Luna,50610,56,M,nuria71@example.org,Humo negro a primera hora. Mi hija tiene asma y no pudo salir al patio.
+9,2026-04-22,Sádaba,50670,51,M,davidcv@example.org,No se veía la sierra por la calima. ¿Es peligroso?
+10,2026-06-27,Luna,50610,54,F,isabel.bl@example.org,"El vecino de enfrente quema rastrojos casi todos los sábados, ya lo he avisado."
+11,2026-06-18,Luna,50610,77,M,fjlorente@example.org,"Humo en la zona del río, parece una hoguera."
+12,2026-04-28,Sádaba,50670,40,NS/NC,olga_s@example.org,"Hay una columna de humo hacia el norte, no sé de qué es."
+13,2026-04-13,Luna,50610,25,M,tomasaz@example.org,Olor a purín muy fuerte desde el mediodía.
+14,2026-05-11,Tauste,50660,59,NS/NC,berta.rz@example.org,"Nada grave, solo aviso: mucho polen y polvo hoy."
+15,2026-06-27,Sádaba,50670,61,F,hector_mp@example.org,"Olor a plástico quemado por la noche, cerca del polígono."
+16,2026-04-04,Luna,50610,41,M,ana.pb@example.org,"El vecino de enfrente quema rastrojos casi todos los sábados, ya lo he avisado."
+17,2026-06-09,Tauste,50660,41,F,mikel_ap@example.org,"Hay una columna de humo hacia el norte, no sé de qué es."
+18,2026-06-08,Luna,50610,29,NS/NC,sara.gil@example.org,Humo negro a primera hora. Mi hija tiene asma y no pudo salir al patio.
+19,2026-06-24,Luna,50610,66,NS/NC,javi_ll@example.org,"Quema agrícola con viento, el humo entra en las casas."
+20,2026-05-04,Tauste,50660,63,M,eva.mt@example.org,Olor químico raro a las 7 de la mañana en la carretera.
+21,2026-04-25,Sádaba,50670,21,M,raul_ch@example.org,"Otra vez la quema de la parcela de detrás del polideportivo. Soy Manolo, el de la panadería, me conocen."
+22,2026-05-12,Luna,50610,51,F,lola.rm@example.org,"Polvo en suspensión, muy molesto para ir en bici."
+23,2026-05-25,Sádaba,50670,76,NS/NC,ivan_bz@example.org,"Olor a quemado toda la tarde, creo que vienen de las granjas del camino."
+24,2026-04-04,Tauste,50660,80,F,pilar.gs@example.org,"Mucho polvo en el aire, los coches amanecieron cubiertos de arena."
+25,2026-06-06,Ejea de los Caballeros,50600,29,F,sergio_cl@example.org,"Nada grave, solo aviso: mucho polen y polvo hoy."
+26,2026-05-26,Ejea de los Caballeros,50600,59,F,maria.jz@example.org,No se veía la sierra por la calima. ¿Es peligroso?
+27,2026-05-31,Sádaba,50670,23,NS/NC,alba_rp@example.org,"Otra vez la quema de la parcela de detrás del polideportivo. Soy Manolo, el de la panadería, me conocen."
+28,2026-04-07,Tauste,50660,25,F,jorge.mn@example.org,"Polvo en suspensión, muy molesto para ir en bici."
+29,2026-06-08,Sádaba,50670,21,M,clara_ol@example.org,"Quema agrícola con viento, el humo entra en las casas."
+30,2026-06-22,Sádaba,50670,46,F,pablo.vd@example.org,Olor químico raro a las 7 de la mañana en la carretera.
