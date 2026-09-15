@@ -1,0 +1,5 @@
+carne;nombre;telefono;titulo;estante;fecha_prestamo
+101;Marta García;600111222;El Quijote;3;2026-10-02
+101;Marta García;600111222;Poesía completa;5;2026-10-02
+102;Íker Sanz;600333444;El Quijote;3;2026-10-03
+103;Rosa Pérez;;Historia de Aragón;2;2026-10-04
