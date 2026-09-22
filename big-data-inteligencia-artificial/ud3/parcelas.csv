@@ -1,0 +1,262 @@
+parcela_id,municipio,campania,superficie_ha,cultivo,regimen,textura_suelo,materia_organica_pct,ph,lluvia_mm,dosis_n_kg_ha,semana_siembra,tratamiento_fitosanitario,incidencia_plaga,rendimiento_kg_ha,contacto_socio
+PAR-001,Luna,2025,5.7,trigo,regadío,franca,1.51,8.5,397,88,45,no,no,5715,socio08@example.org
+PAR-002,Tauste,2025,13.2,trigo,secano,franca,1.52,8.3,262,129,48,no,no,2375,socio18@example.org
+PAR-003,Ejea de los Caballeros,2025,12.3,trigo,regadío,arenosa,1.81,8.6,301,136,47,no,no,5914,socio55@example.org
+PAR-004,Tauste,2025,6.8,cebada,secano,arcillosa,1.63,8.3,314,116,46,no,no,2724,socio39@example.org
+PAR-005,Ejea de los Caballeros,2025,14.4,girasol,regadío,arcillosa,2.24,8.3,255,73,12,sí,sí,2875,socio46@example.org
+PAR-006,Luna,2025,13.4,maíz,regadío,franca,1.3,7.4,447,218,15,sí,sí,10252,socio36@example.org
+PAR-007,Sádaba,2025,2.4,maíz,regadío,arenosa,1.46,8.1,468,192,16,sí,sí,11401,socio11@example.org
+PAR-008,Tauste,2025,13.3,cebada,secano,arcillosa,0.84,8.6,317,117,46,no,no,2466,socio53@example.org
+PAR-009,Biota,2025,9.7,cebada,regadío,arenosa,1.3,8.2,377,104,43,sí,sí,4236,socio56@example.org
+PAR-010,Tauste,2025,8.2,trigo,regadío,arenosa,1.92,7.5,387,137,47,no,no,5816,socio13@example.org
+PAR-011,Sádaba,2025,25.5,cebada,regadío,arcillosa,1.65,7.9,367,98,43,sí,sí,4366,socio41@example.org
+PAR-012,Pradilla de Ebro,2025,14.3,cebada,regadío,franca,2.01,7.7,274,62,45,no,no,6223,socio08@example.org
+PAR-013,Pradilla de Ebro,2025,2.8,cebada,regadío,franca,2.64,8.6,326,94,44,no,no,7167,socio02@example.org
+PAR-014,Castejón de Valdejasa,2025,8.8,girasol,regadío,franca,1.07,7.5,317,80,18,sí,sí,3245,socio28@example.org
+PAR-015,Ejea de los Caballeros,2025,10.6,trigo,secano,arcillosa,2.45,8.4,336,79,46,sí,no,3381,socio10@example.org
+PAR-016,Tauste,2025,4.7,trigo,secano,franca,2.14,7.8,340,77,48,no,no,3158,socio22@example.org
+PAR-017,Biota,2025,13.3,cebada,regadío,arcillosa,1.85,8.1,398,47,40,sí,sí,4497,socio20@example.org
+PAR-018,Ejea de los Caballeros,2025,16.3,trigo,regadío,arenosa,1.27,8.2,378,184,42,sí,sí,4914,socio40@example.org
+PAR-019,Tauste,2025,21.7,cebada,secano,arcillosa,0.73,8.5,346,93,48,no,no,2769,socio14@example.org
+PAR-020,Tauste,2025,9.7,girasol,secano,franca,1.5,7.9,274,58,19,sí,sí,1027,socio23@example.org
+PAR-021,Sádaba,2025,8.2,cebada,secano,franca,1.38,8.1,332,144,41,no,no,3456,socio24@example.org
+PAR-022,Ejea de los Caballeros,2025,16.4,trigo,regadío,franca,2.26,8.3,385,95,48,no,no,5867,socio35@example.org
+PAR-023,Biota,2025,7.0,trigo,regadío,franca,2.28,7.6,484,153,45,sí,sí,7453,socio31@example.org
+PAR-024,Ejea de los Caballeros,2025,10.5,cebada,regadío,franca,1.85,8.1,291,89,45,no,no,5426,socio57@example.org
+PAR-025,Tauste,2025,11.2,girasol,regadío,franca,2.11,8.3,296,37,18,no,sí,2530,socio21@example.org
+PAR-026,Tauste,2025,36.2,cebada,regadío,arenosa,1.13,7.7,268,114,42,no,no,5292,socio50@example.org
+PAR-027,Luna,2025,3.2,trigo,secano,arcillosa,1.44,8.0,474,146,48,sí,sí,3167,socio13@example.org
+PAR-028,Tauste,2025,16.8,girasol,regadío,arcillosa,0.8,8.1,372,60,14,sí,sí,2300,socio14@example.org
+PAR-029,Sádaba,2025,19.0,cebada,secano,arcillosa,0.6,7.5,379,108,48,sí,sí,2450,socio21@example.org
+PAR-030,Tauste,2025,13.7,maíz,regadío,arcillosa,0.68,8.4,310,202,17,sí,sí,8096,socio35@example.org
+PAR-031,Ejea de los Caballeros,2025,6.7,trigo,regadío,franca,2.06,8.3,349,124,48,no,no,7349,socio51@example.org
+PAR-032,Castejón de Valdejasa,2025,10.7,cebada,secano,arcillosa,1.57,7.9,335,99,45,no,no,3181,socio55@example.org
+PAR-033,Tauste,2025,6.9,girasol,regadío,arenosa,0.88,7.6,319,24,14,sí,sí,1853,socio40@example.org
+PAR-034,Sádaba,2025,2.1,trigo,secano,arenosa,2.15,8.0,396,87,46,no,no,3142,socio34@example.org
+PAR-035,Ejea de los Caballeros,2025,6.8,girasol,secano,arenosa,2.06,8.0,348,42,14,no,no,1339,socio54@example.org
+PAR-036,Erla,2025,40.7,maíz,regadío,arcillosa,1.38,8.0,393,215,17,sí,sí,10099,socio11@example.org
+PAR-037,Luna,2025,11.1,trigo,secano,arenosa,1.45,7.8,444,100,46,no,no,3418,socio28@example.org
+PAR-038,Castejón de Valdejasa,2025,9.3,girasol,regadío,franca,0.97,7.7,382,101,10,sí,sí,2461,socio39@example.org
+PAR-039,Pradilla de Ebro,2025,4.4,cebada,regadío,arcillosa,1.45,8.0,280,99,44,no,no,5996,socio04@example.org
+PAR-040,Erla,2025,17.8,trigo,secano,franca,0.7,8.2,409,168,47,sí,sí,2824,socio35@example.org
+PAR-041,Erla,2025,20.1,cebada,regadío,franca,1.89,7.7,337,103,46,sí,no,7554,socio50@example.org
+PAR-042,Ejea de los Caballeros,2025,24.0,trigo,regadío,franca,1.43,8.0,395,116,50,sí,sí,5485,socio57@example.org
+PAR-043,Ejea de los Caballeros,2025,8.6,cebada,secano,arcillosa,1.29,8.3,292,120,48,sí,sí,2599,socio54@example.org
+PAR-044,Ejea de los Caballeros,2025,47.6,girasol,regadío,arenosa,1.4,8.5,294,30,13,sí,sí,1933,socio20@example.org
+PAR-045,Tauste,2025,14.6,trigo,regadío,arcillosa,1.29,8.4,248,110,43,no,no,5917,socio58@example.org
+PAR-046,Sádaba,2025,15.8,cebada,regadío,franca,0.96,9.0,456,118,47,sí,sí,4618,socio59@example.org
+PAR-047,Ejea de los Caballeros,2025,22.6,cebada,regadío,arcillosa,1.96,8.2,377,106,47,no,sí,4725,socio38@example.org
+PAR-048,Ejea de los Caballeros,2025,7.7,cebada,regadío,arenosa,2.01,8.5,279,103,44,no,no,4934,socio35@example.org
+PAR-049,Sádaba,2025,13.7,girasol,secano,franca,1.07,8.4,399,95,14,sí,sí,1380,socio13@example.org
+PAR-050,Tauste,2025,15.3,maíz,regadío,arenosa,2.3,8.4,363,242,16,sí,sí,9801,socio50@example.org
+PAR-051,Ejea de los Caballeros,2025,17.1,trigo,regadío,franca,1.89,8.1,332,122,45,no,no,6743,socio37@example.org
+PAR-052,Biota,2025,9.4,trigo,regadío,franca,1.63,8.1,412,86,46,sí,sí,5480,socio26@example.org
+PAR-053,Luna,2025,15.4,maíz,regadío,franca,1.96,8.0,515,221,19,sí,sí,12063,socio33@example.org
+PAR-054,Biota,2025,5.6,trigo,secano,franca,2.24,7.9,428,153,46,sí,no,4623,socio47@example.org
+PAR-055,Ejea de los Caballeros,2025,20.2,girasol,regadío,arcillosa,2.08,8.2,324,20,16,sí,sí,1969,socio16@example.org
+PAR-056,Ejea de los Caballeros,2025,14.3,cebada,regadío,arenosa,1.58,7.6,310,108,43,no,no,6512,socio46@example.org
+PAR-057,Pradilla de Ebro,2025,6.7,trigo,regadío,arcillosa,1.02,8.5,300,152,47,no,no,5777,socio50@example.org
+PAR-058,Tauste,2025,14.7,cebada,regadío,arcillosa,1.83,7.9,340,160,44,sí,sí,5391,socio07@example.org
+PAR-059,Tauste,2025,5.8,cebada,regadío,arcillosa,1.14,8.6,212,60,45,sí,sí,4906,socio29@example.org
+PAR-060,Luna,2025,12.0,cebada,secano,franca,1.34,8.4,446,67,43,no,no,3983,socio29@example.org
+PAR-061,Ejea de los Caballeros,2025,22.8,cebada,regadío,franca,0.93,8.5,339,64,42,sí,sí,4994,socio44@example.org
+PAR-062,Tauste,2025,14.3,girasol,regadío,arenosa,1.37,8.4,312,72,13,sí,sí,2381,socio42@example.org
+PAR-063,Sádaba,2025,17.6,trigo,secano,arcillosa,0.93,7.8,383,123,47,sí,sí,2628,socio54@example.org
+PAR-064,Sádaba,2025,8.1,girasol,regadío,arcillosa,2.4,8.6,380,101,14,sí,sí,3237,socio52@example.org
+PAR-065,Biota,2025,9.8,cebada,secano,franca,,8.0,254,80,46,no,no,2532,socio39@example.org
+PAR-066,Tauste,2025,6.2,maíz,regadío,franca,2.82,8.1,295,222,13,sí,sí,12665,socio37@example.org
+PAR-067,Sádaba,2025,9.7,cebada,secano,franca,1.61,8.2,434,111,48,no,no,3762,socio14@example.org
+PAR-068,Luna,2025,16.0,girasol,secano,arcillosa,1.11,8.4,346,88,15,sí,sí,1504,socio17@example.org
+PAR-069,Erla,2025,5.0,cebada,regadío,franca,1.62,8.2,340,122,41,no,no,6766,socio31@example.org
+PAR-070,Tauste,2025,13.2,cebada,regadío,franca,2.3,8.2,268,94,45,no,no,6117,socio32@example.org
+PAR-071,Tauste,2025,6.8,trigo,regadío,franca,1.89,8.1,360,115,47,no,sí,5427,socio51@example.org
+PAR-072,Sádaba,2025,14.4,trigo,secano,franca,1.52,7.8,427,104,45,sí,sí,2381,socio11@example.org
+PAR-073,Tauste,2025,8.1,trigo,regadío,franca,1.47,7.9,309,126,46,no,no,5913,socio46@example.org
+PAR-074,Ejea de los Caballeros,2025,15.6,cebada,secano,arenosa,0.76,8.0,324,109,42,no,no,2355,socio25@example.org
+PAR-075,Sádaba,2025,17.5,trigo,secano,arcillosa,1.45,8.0,409,113,46,no,sí,2469,socio45@example.org
+PAR-076,Tauste,2025,8.8,maíz,regadío,franca,1.52,8.8,342,192,12,no,sí,10450,socio48@example.org
+PAR-077,Tauste,2025,23.7,cebada,secano,arcillosa,1.51,8.3,263,112,46,no,no,2710,socio40@example.org
+PAR-078,Ejea de los Caballeros,2025,11.2,trigo,regadío,arenosa,2.36,7.7,338,109,51,sí,sí,5310,socio05@example.org
+PAR-079,Erla,2025,25.7,trigo,secano,franca,1.57,8.1,365,111,48,no,no,3550,socio44@example.org
+PAR-080,Sádaba,2025,17.8,cebada,secano,franca,1.08,8.3,423,116,45,no,no,3114,socio27@example.org
+PAR-081,Ejea de los Caballeros,2025,12.7,girasol,secano,franca,1.95,8.0,306,59,15,no,no,1520,socio20@example.org
+PAR-082,Castejón de Valdejasa,2025,12.5,cebada,secano,franca,1.87,8.2,383,115,47,no,no,3555,socio19@example.org
+PAR-083,Ejea de los Caballeros,2025,21.6,cebada,regadío,arcillosa,1.11,8.2,331,153,45,sí,sí,4007,socio17@example.org
+PAR-084,Castejón de Valdejasa,2025,29.8,cebada,secano,franca,2.34,8.3,310,117,43,no,no,3727,socio19@example.org
+PAR-085,Biota,2025,15.0,cebada,secano,arcillosa,1.51,8.1,455,94,47,no,no,3457,socio39@example.org
+PAR-086,Castejón de Valdejasa,2025,6.7,trigo,secano,franca,0.96,8.0,287,122,50,no,no,2961,socio04@example.org
+PAR-087,Pradilla de Ebro,2025,13.0,maíz,regadío,arenosa,1.71,8.3,207,232,16,no,sí,8901,socio42@example.org
+PAR-088,Erla,2025,8.2,girasol,regadío,arcillosa,1.41,7.7,326,65,15,sí,sí,2924,socio25@example.org
+PAR-089,Erla,2025,13.5,trigo,secano,arcillosa,1.48,7.5,486,104,48,sí,sí,2888,socio44@example.org
+PAR-090,Erla,2025,11.6,trigo,secano,arcillosa,0.72,8.6,359,124,47,no,no,3646,socio38@example.org
+PAR-091,Ejea de los Caballeros,2025,15.4,girasol,regadío,arenosa,1.52,8.1,262,95,15,sí,sí,2422,socio22@example.org
+PAR-092,Biota,2025,11.3,trigo,regadío,franca,,8.0,383,135,46,sí,sí,6678,socio03@example.org
+PAR-093,Ejea de los Caballeros,2025,5.1,cebada,secano,franca,1.32,8.8,344,125,44,sí,no,2898,socio20@example.org
+PAR-094,Tauste,2025,15.4,trigo,regadío,arcillosa,1.26,7.9,301,140,48,sí,sí,4536,socio08@example.org
+PAR-095,Ejea de los Caballeros,2025,29.2,girasol,regadío,franca,1.46,8.8,379,20,14,sí,sí,2268,socio53@example.org
+PAR-096,Ejea de los Caballeros,2025,2.6,trigo,regadío,arenosa,0.93,8.6,373,103,47,no,sí,3669,socio47@example.org
+PAR-097,Biota,2025,7.5,girasol,secano,franca,1.08,8.5,397,56,15,sí,sí,1282,socio32@example.org
+PAR-098,Biota,2025,7.9,girasol,regadío,franca,2.14,8.1,429,113,13,sí,sí,2845,socio11@example.org
+PAR-099,Pradilla de Ebro,2025,5.7,cebada,secano,franca,1.19,8.0,349,104,46,no,no,2948,socio15@example.org
+PAR-100,Erla,2025,12.4,trigo,secano,arcillosa,1.61,8.2,445,137,48,no,no,3525,socio38@example.org
+PAR-101,Sádaba,2025,5.4,cebada,secano,franca,1.48,7.6,405,136,46,sí,sí,2583,socio22@example.org
+PAR-102,Sádaba,2025,25.1,trigo,secano,franca,1.76,8.1,312,128,45,no,no,3686,socio11@example.org
+PAR-103,Ejea de los Caballeros,2025,7.5,maíz,regadío,arenosa,0.7,7.9,262,232,17,sí,sí,8282,socio02@example.org
+PAR-104,Ejea de los Caballeros,2025,5.3,girasol,regadío,arcillosa,1.51,8.1,293,71,11,sí,sí,2896,socio53@example.org
+PAR-105,Ejea de los Caballeros,2025,17.7,trigo,secano,arenosa,1.95,7.4,318,122,44,no,no,2925,socio45@example.org
+PAR-106,Tauste,2025,22.3,girasol,regadío,franca,1.28,7.9,322,68,14,sí,sí,2703,socio30@example.org
+PAR-107,Pradilla de Ebro,2025,14.0,cebada,secano,franca,1.84,8.6,310,140,45,no,no,3512,socio59@example.org
+PAR-108,Erla,2025,29.9,trigo,secano,arcillosa,1.29,7.8,426,120,47,no,no,3396,socio22@example.org
+PAR-109,Sádaba,2025,25.1,trigo,secano,franca,1.4,8.6,367,139,45,no,no,3264,socio46@example.org
+PAR-110,Sádaba,2025,5.4,trigo,secano,franca,1.29,8.4,427,106,44,no,no,3870,socio13@example.org
+PAR-111,Luna,2025,23.8,cebada,secano,arcillosa,2.0,8.1,363,63,45,no,no,3231,socio02@example.org
+PAR-112,Tauste,2025,15.0,cebada,secano,franca,1.15,7.8,311,78,44,no,no,3098,socio14@example.org
+PAR-113,Tauste,2025,7.1,maíz,regadío,arenosa,0.78,7.9,280,193,14,sí,sí,10107,socio52@example.org
+PAR-114,Ejea de los Caballeros,2025,13.0,trigo,regadío,franca,1.96,7.8,341,88,48,sí,no,7079,socio38@example.org
+PAR-115,Pradilla de Ebro,2025,26.2,cebada,regadío,franca,1.8,8.1,242,127,45,no,no,6337,socio51@example.org
+PAR-116,Tauste,2025,25.7,cebada,regadío,arcillosa,2.44,8.4,343,91,44,no,no,6536,socio30@example.org
+PAR-117,Tauste,2025,5.4,trigo,regadío,arcillosa,1.9,7.4,231,94,50,no,no,5686,socio06@example.org
+PAR-118,Sádaba,2025,9.0,cebada,secano,franca,2.19,8.5,388,93,44,no,no,2796,socio36@example.org
+PAR-119,Pradilla de Ebro,2025,14.9,cebada,secano,franca,1.91,7.6,287,44,44,no,no,2467,socio58@example.org
+PAR-120,Castejón de Valdejasa,2025,4.5,cebada,secano,franca,1.28,7.7,379,100,43,sí,sí,2526,socio32@example.org
+PAR-121,Ejea de los Caballeros,2025,7.8,cebada,secano,arenosa,1.77,7.6,292,126,41,no,no,2444,socio48@example.org
+PAR-122,Castejón de Valdejasa,2025,15.2,cebada,regadío,arenosa,1.59,7.9,324,84,44,no,no,5328,socio50@example.org
+PAR-123,Luna,2025,8.2,cebada,secano,arcillosa,1.4,8.2,447,90,47,sí,sí,2925,socio14@example.org
+PAR-124,Luna,2025,12.3,trigo,regadío,arenosa,1.86,8.1,439,140,49,no,sí,4674,socio56@example.org
+PAR-125,Sádaba,2025,20.1,trigo,secano,franca,1.98,8.5,430,143,45,no,no,3651,socio09@example.org
+PAR-126,Sádaba,2025,15.5,trigo,secano,arcillosa,1.68,8.0,421,108,49,no,no,3720,socio44@example.org
+PAR-127,Ejea de los Caballeros,2025,7.2,trigo,secano,arcillosa,1.89,7.5,327,126,44,no,no,2874,socio26@example.org
+PAR-128,Tauste,2025,8.2,trigo,regadío,franca,1.54,8.0,305,153,49,sí,sí,6399,socio30@example.org
+PAR-129,Sádaba,2025,24.2,trigo,secano,franca,0.77,8.0,344,112,50,no,sí,2248,socio17@example.org
+PAR-130,Ejea de los Caballeros,2025,5.2,trigo,regadío,franca,2.15,8.0,324,125,45,no,no,6409,socio27@example.org
+PAR-131,Luna,2025,3.8,trigo,regadío,arcillosa,1.57,7.7,449,109,48,sí,sí,5508,socio27@example.org
+PAR-132,Ejea de los Caballeros,2025,12.0,cebada,regadío,franca,2.19,8.2,298,117,46,no,no,6658,socio47@example.org
+PAR-133,Erla,2025,17.0,cebada,secano,arcillosa,1.4,8.1,355,104,48,sí,sí,2149,socio23@example.org
+PAR-134,Ejea de los Caballeros,2025,26.6,trigo,regadío,arcillosa,1.68,8.2,267,112,47,sí,sí,5596,socio51@example.org
+PAR-135,Ejea de los Caballeros,2025,11.2,cebada,regadío,arenosa,2.31,7.9,341,57,47,sí,no,5621,socio20@example.org
+PAR-136,Luna,2025,16.9,trigo,secano,franca,1.53,8.0,344,118,46,no,no,3228,socio34@example.org
+PAR-137,Tauste,2025,32.0,cebada,secano,franca,1.44,8.1,351,123,44,sí,no,3320,socio42@example.org
+PAR-138,Ejea de los Caballeros,2025,23.3,trigo,secano,arcillosa,1.11,7.9,322,151,47,sí,no,2957,socio33@example.org
+PAR-139,Luna,2025,17.7,girasol,regadío,arcillosa,1.81,8.5,309,79,17,sí,sí,2595,socio56@example.org
+PAR-140,Ejea de los Caballeros,2025,8.6,maíz,regadío,arcillosa,1.16,8.2,312,222,19,sí,sí,11479,socio45@example.org
+PAR-141,Tauste,2025,15.6,cebada,secano,arcillosa,1.39,8.7,332,71,45,no,no,3095,socio36@example.org
+PAR-142,Ejea de los Caballeros,2025,6.3,cebada,regadío,franca,2.09,7.8,313,114,45,sí,sí,5111,socio19@example.org
+PAR-143,Castejón de Valdejasa,2025,7.5,trigo,secano,franca,1.04,7.8,356,134,46,sí,sí,2962,socio53@example.org
+PAR-144,Pradilla de Ebro,2025,8.2,cebada,secano,arcillosa,1.7,8.4,270,101,47,no,no,2977,socio35@example.org
+PAR-145,Sádaba,2025,36.3,trigo,secano,franca,1.59,8.3,432,129,44,no,no,3672,socio05@example.org
+PAR-146,Ejea de los Caballeros,2025,16.2,trigo,regadío,arcillosa,1.64,8.5,328,126,46,sí,sí,6189,socio49@example.org
+PAR-147,Biota,2025,6.1,trigo,secano,arcillosa,0.95,7.2,393,124,46,no,no,2718,socio11@example.org
+PAR-148,Ejea de los Caballeros,2025,18.1,cebada,regadío,arenosa,1.73,8.3,329,116,47,sí,no,6133,socio15@example.org
+PAR-149,Ejea de los Caballeros,2025,14.1,trigo,regadío,franca,1.72,7.7,319,134,46,sí,no,7105,socio03@example.org
+PAR-150,Biota,2025,8.9,cebada,secano,arcillosa,1.79,8.1,395,97,44,sí,sí,2136,socio45@example.org
+PAR-151,Sádaba,2025,8.1,cebada,secano,arenosa,1.2,7.8,396,41,45,no,no,2422,socio06@example.org
+PAR-152,Ejea de los Caballeros,2025,26.3,maíz,regadío,franca,2.18,7.6,336,205,15,sí,sí,11328,socio39@example.org
+PAR-153,Luna,2025,4.0,cebada,secano,franca,1.47,8.1,352,83,46,no,no,3163,socio07@example.org
+PAR-154,Pradilla de Ebro,2025,3.0,trigo,regadío,franca,0.97,7.6,291,147,47,sí,no,7754,socio51@example.org
+PAR-155,Ejea de los Caballeros,2025,19.7,trigo,regadío,arcillosa,1.33,8.5,326,123,46,sí,sí,4251,socio07@example.org
+PAR-156,Biota,2025,12.4,cebada,regadío,franca,1.77,7.9,370,72,43,no,no,5582,socio33@example.org
+PAR-157,Ejea de los Caballeros,2025,4.5,cebada,secano,arcillosa,1.84,7.6,362,81,48,sí,no,2969,socio32@example.org
+PAR-158,Ejea de los Caballeros,2025,10.1,cebada,secano,arcillosa,1.49,7.8,365,132,44,no,no,2931,socio29@example.org
+PAR-159,Ejea de los Caballeros,2025,2.4,cebada,regadío,arcillosa,0.72,7.9,371,56,44,sí,sí,3994,socio31@example.org
+PAR-160,Ejea de los Caballeros,2025,3.9,girasol,regadío,arcillosa,1.22,8.3,382,88,16,sí,sí,2466,socio03@example.org
+PAR-161,Biota,2025,2.9,cebada,secano,arcillosa,1.41,8.0,428,85,45,no,no,3111,socio22@example.org
+PAR-162,Tauste,2025,21.0,trigo,secano,franca,0.6,8.1,361,87,45,no,no,2576,socio49@example.org
+PAR-163,Sádaba,2025,8.5,trigo,regadío,franca,1.59,8.4,438,106,48,sí,sí,4479,socio48@example.org
+PAR-164,Tauste,2025,21.3,trigo,regadío,arcillosa,1.96,8.5,335,147,46,no,no,5481,socio29@example.org
+PAR-165,Ejea de los Caballeros,2025,7.7,maíz,regadío,franca,1.33,7.7,296,205,13,sí,sí,11199,socio21@example.org
+PAR-166,Luna,2025,15.5,trigo,regadío,franca,1.8,8.0,378,95,48,sí,sí,5732,socio57@example.org
+PAR-167,Tauste,2025,11.0,maíz,regadío,arcillosa,1.33,8.1,314,201,14,sí,sí,10751,socio59@example.org
+PAR-168,Ejea de los Caballeros,2025,11.1,trigo,secano,franca,2.1,7.9,383,152,48,no,no,4037,socio06@example.org
+PAR-169,Luna,2025,11.3,trigo,secano,franca,2.73,8.3,483,166,47,no,no,4015,socio11@example.org
+PAR-170,Ejea de los Caballeros,2025,12.7,trigo,secano,arcillosa,0.82,7.1,428,114,45,sí,sí,2875,socio35@example.org
+PAR-171,Pradilla de Ebro,2025,16.6,cebada,regadío,franca,1.81,8.3,313,117,46,no,no,6944,socio44@example.org
+PAR-172,Luna,2025,13.4,cebada,secano,franca,1.51,7.4,412,138,42,no,no,4028,socio16@example.org
+PAR-173,Tauste,2025,7.3,cebada,regadío,franca,1.73,7.9,320,105,46,sí,sí,4585,socio52@example.org
+PAR-174,Castejón de Valdejasa,2025,21.8,trigo,secano,arcillosa,0.8,8.2,327,136,47,no,no,3330,socio43@example.org
+PAR-175,Luna,2025,16.9,cebada,secano,arenosa,1.38,8.3,352,116,45,no,no,2838,socio06@example.org
+PAR-176,Pradilla de Ebro,2025,34.4,cebada,regadío,arenosa,2.08,8.2,283,113,43,no,no,6173,socio04@example.org
+PAR-177,Pradilla de Ebro,2025,8.2,cebada,regadío,arcillosa,2.01,8.0,335,139,46,sí,sí,4117,socio15@example.org
+PAR-178,Ejea de los Caballeros,2025,12.0,cebada,regadío,arenosa,1.61,7.6,288,122,43,no,no,6071,socio34@example.org
+PAR-179,Tauste,2025,19.8,girasol,secano,arcillosa,0.6,8.4,299,60,16,no,sí,1057,socio31@example.org
+PAR-180,Pradilla de Ebro,2025,17.2,cebada,regadío,franca,1.85,8.0,319,149,42,sí,sí,4049,socio31@example.org
+PAR-181,Pradilla de Ebro,2025,10.5,cebada,regadío,franca,2.87,8.0,337,98,46,no,no,6945,socio02@example.org
+PAR-182,Ejea de los Caballeros,2025,11.2,trigo,regadío,arenosa,1.74,7.8,414,131,45,sí,sí,3037,socio23@example.org
+PAR-183,Castejón de Valdejasa,2025,7.3,cebada,secano,franca,1.73,8.4,361,102,50,no,no,3093,socio41@example.org
+PAR-184,Ejea de los Caballeros,2025,22.6,cebada,secano,arenosa,2.08,8.4,319,99,46,no,no,2465,socio23@example.org
+PAR-185,Ejea de los Caballeros,2025,9.9,trigo,regadío,arenosa,1.17,8.1,327,98,47,no,no,5393,socio58@example.org
+PAR-186,Biota,2025,14.1,cebada,secano,franca,1.69,8.1,398,80,45,no,no,3227,socio24@example.org
+PAR-187,Ejea de los Caballeros,2025,17.4,maíz,regadío,arenosa,1.56,7.8,323,198,17,sí,sí,10389,socio28@example.org
+PAR-188,Luna,2025,20.4,trigo,secano,arenosa,1.64,8.2,302,137,44,no,no,2946,socio43@example.org
+PAR-189,Biota,2025,8.8,trigo,secano,franca,1.34,8.0,424,136,47,no,no,3202,socio41@example.org
+PAR-190,Ejea de los Caballeros,2025,9.6,trigo,regadío,arcillosa,2.07,8.1,313,128,46,no,no,6395,socio13@example.org
+PAR-191,Ejea de los Caballeros,2025,9.9,trigo,regadío,franca,0.97,7.9,365,168,47,no,sí,3840,socio36@example.org
+PAR-192,Tauste,2025,5.5,maíz,regadío,arcillosa,1.4,8.1,238,207,13,sí,sí,8275,socio53@example.org
+PAR-193,Sádaba,2025,3.2,girasol,secano,arcillosa,1.17,7.5,386,141,14,sí,sí,1200,socio08@example.org
+PAR-194,Biota,2025,5.4,trigo,secano,arenosa,1.08,7.3,414,123,47,no,no,2912,socio59@example.org
+PAR-195,Sádaba,2025,13.1,cebada,secano,franca,1.5,8.0,371,78,45,no,no,3245,socio48@example.org
+PAR-196,Tauste,2025,13.8,girasol,regadío,franca,1.83,8.2,324,104,19,sí,sí,2568,socio56@example.org
+PAR-197,Ejea de los Caballeros,2025,25.0,girasol,regadío,franca,1.2,8.2,324,49,11,sí,sí,2499,socio18@example.org
+PAR-198,Tauste,2025,13.4,maíz,regadío,franca,1.87,7.7,284,230,18,sí,sí,11587,socio33@example.org
+PAR-199,Tauste,2025,33.1,cebada,secano,arcillosa,1.02,8.1,355,104,46,no,no,2362,socio20@example.org
+PAR-200,Ejea de los Caballeros,2025,18.2,cebada,regadío,franca,1.72,7.9,334,87,46,sí,sí,5733,socio18@example.org
+PAR-201,Luna,2025,10.9,trigo,secano,franca,1.42,8.0,368,130,49,no,no,3585,socio49@example.org
+PAR-202,Tauste,2025,7.5,trigo,regadío,arcillosa,1.25,8.2,279,120,46,no,no,5759,socio52@example.org
+PAR-203,Castejón de Valdejasa,2025,7.3,cebada,secano,arenosa,1.25,8.5,379,125,48,sí,sí,1771,socio44@example.org
+PAR-204,Luna,2025,5.8,cebada,secano,arenosa,0.99,8.6,443,135,44,sí,sí,2285,socio38@example.org
+PAR-205,Biota,2025,8.9,trigo,secano,arcillosa,1.28,8.4,354,93,45,no,no,3273,socio19@example.org
+PAR-206,Tauste,2025,8.1,cebada,regadío,arcillosa,1.94,8.1,378,136,44,sí,sí,4470,socio11@example.org
+PAR-207,Castejón de Valdejasa,2025,7.2,trigo,secano,franca,2.0,8.5,459,137,49,sí,no,4686,socio54@example.org
+PAR-208,Pradilla de Ebro,2025,33.9,maíz,regadío,arenosa,1.88,7.9,271,265,17,sí,sí,11225,socio36@example.org
+PAR-209,Tauste,2025,4.5,trigo,regadío,arcillosa,1.09,7.9,321,158,47,no,no,6092,socio03@example.org
+PAR-210,Pradilla de Ebro,2025,20.5,girasol,regadío,franca,1.63,8.3,266,26,14,sí,sí,2560,socio18@example.org
+PAR-211,Luna,2025,8.5,trigo,regadío,franca,1.65,8.5,425,108,44,no,sí,5364,socio06@example.org
+PAR-212,Tauste,2025,17.1,cebada,regadío,franca,2.53,8.1,396,113,45,sí,sí,5132,socio50@example.org
+PAR-213,Sádaba,2025,4.4,cebada,secano,arcillosa,1.51,8.7,235,148,46,no,no,2794,socio01@example.org
+PAR-214,Castejón de Valdejasa,2025,7.9,cebada,regadío,arcillosa,2.0,8.2,394,99,47,no,no,6157,socio58@example.org
+PAR-215,Castejón de Valdejasa,2025,11.5,cebada,regadío,franca,1.98,8.1,405,105,49,no,no,7155,socio50@example.org
+PAR-216,Tauste,2025,9.5,trigo,regadío,franca,1.08,8.4,266,91,45,no,no,5501,socio11@example.org
+PAR-217,Pradilla de Ebro,2025,15.4,cebada,regadío,arcillosa,1.35,8.4,286,77,46,sí,sí,4967,socio18@example.org
+PAR-218,Ejea de los Caballeros,2025,9.8,cebada,regadío,franca,2.13,7.9,372,98,41,no,no,7385,socio05@example.org
+PAR-219,Ejea de los Caballeros,2025,12.1,maíz,regadío,franca,1.6,8.1,284,202,18,no,sí,14045,socio29@example.org
+PAR-220,Ejea de los Caballeros,2025,17.5,cebada,secano,franca,1.75,7.9,292,87,45,no,no,3176,socio42@example.org
+PAR-221,Luna,2025,7.3,trigo,regadío,arenosa,2.85,7.7,446,149,45,no,no,6281,socio22@example.org
+PAR-222,Luna,2025,16.0,trigo,secano,franca,1.63,7.3,464,199,45,no,no,4820,socio15@example.org
+PAR-223,Ejea de los Caballeros,2025,6.8,trigo,regadío,arcillosa,,8.3,239,128,46,no,no,5815,socio43@example.org
+PAR-224,Ejea de los Caballeros,2025,13.6,cebada,regadío,franca,2.0,7.8,330,50,43,no,no,6728,socio53@example.org
+PAR-225,Tauste,2025,6.6,maíz,regadío,franca,1.63,8.3,280,242,15,no,sí,10909,socio12@example.org
+PAR-226,Tauste,2025,9.5,maíz,regadío,franca,2.03,8.2,365,236,18,sí,sí,13707,socio24@example.org
+PAR-227,Luna,2025,5.3,trigo,secano,franca,1.92,7.9,439,124,47,no,no,4287,socio10@example.org
+PAR-228,Castejón de Valdejasa,2025,7.7,girasol,regadío,arcillosa,1.05,8.1,381,73,17,sí,sí,2442,socio05@example.org
+PAR-229,Biota,2025,10.9,maíz,regadío,arcillosa,1.42,8.2,372,223,15,sí,sí,10243,socio25@example.org
+PAR-230,Castejón de Valdejasa,2025,29.3,cebada,secano,franca,2.18,8.2,358,93,44,sí,no,3152,socio59@example.org
+PAR-231,Tauste,2025,21.9,trigo,regadío,arenosa,0.76,7.3,293,101,48,sí,sí,3633,socio40@example.org
+PAR-232,Castejón de Valdejasa,2025,19.4,trigo,secano,arenosa,1.55,7.9,440,73,47,no,no,2898,socio57@example.org
+PAR-233,Tauste,2025,3.8,cebada,regadío,arcillosa,1.39,8.0,303,100,45,no,no,5067,socio58@example.org
+PAR-234,Ejea de los Caballeros,2025,19.3,cebada,secano,arenosa,0.97,7.3,377,94,44,no,no,2790,socio33@example.org
+PAR-235,Tauste,2025,10.1,trigo,regadío,arenosa,1.52,7.9,312,142,48,no,no,4197,socio11@example.org
+PAR-236,Ejea de los Caballeros,2025,10.6,girasol,regadío,arenosa,2.87,8.0,298,29,16,sí,sí,2723,socio28@example.org
+PAR-237,Erla,2025,28.9,trigo,secano,franca,1.31,8.7,504,95,44,no,sí,3356,socio47@example.org
+PAR-238,Sádaba,2025,7.5,trigo,secano,franca,0.84,8.3,431,140,44,no,no,2872,socio47@example.org
+PAR-239,Tauste,2025,23.7,trigo,secano,franca,2.16,7.7,316,142,46,no,no,3838,socio57@example.org
+PAR-240,Sádaba,2025,3.6,girasol,regadío,arenosa,2.33,7.8,415,63,18,sí,sí,3163,socio19@example.org
+PAR-241,Castejón de Valdejasa,2025,12.6,cebada,secano,franca,1.88,8.2,316,97,44,no,no,3668,socio26@example.org
+PAR-242,Ejea de los Caballeros,2025,4.1,trigo,secano,franca,0.6,7.8,327,77,48,no,no,3605,socio52@example.org
+PAR-243,Tauste,2025,17.6,cebada,regadío,arenosa,2.37,7.9,276,98,46,no,no,6501,socio22@example.org
+PAR-244,Ejea de los Caballeros,2025,5.3,cebada,regadío,arcillosa,2.06,8.6,356,111,46,no,no,6298,socio38@example.org
+PAR-245,Sádaba,2025,2.2,trigo,secano,franca,1.21,8.4,384,119,48,sí,no,4048,socio28@example.org
+PAR-246,Ejea de los Caballeros,2025,11.4,cebada,secano,franca,1.15,8.0,329,123,46,no,no,3052,socio08@example.org
+PAR-247,Ejea de los Caballeros,2025,9.1,cebada,secano,arcillosa,1.48,8.1,404,140,43,sí,sí,2798,socio38@example.org
+PAR-248,Luna,2025,3.1,maíz,regadío,franca,1.79,8.1,503,206,17,sí,sí,12849,socio33@example.org
+PAR-249,Tauste,2025,11.6,trigo,secano,arcillosa,1.39,8.0,214,144,45,no,no,2845,socio50@example.org
+PAR-250,Tauste,2025,19.0,girasol,regadío,arenosa,,8.3,271,103,12,sí,sí,2503,socio21@example.org
+PAR-251,Pradilla de Ebro,2025,11.3,cebada,regadío,franca,0.75,7.7,321,71,40,sí,sí,4813,socio11@example.org
+PAR-252,Tauste,2025,15.8,cebada,regadío,franca,1.13,8.3,306,123,46,no,no,5899,socio13@example.org
+PAR-253,Tauste,2025,5.3,maíz,regadío,arcillosa,1.4,8.3,270,246,19,sí,sí,11403,socio27@example.org
+PAR-254,Ejea de los Caballeros,2025,11.3,trigo,regadío,arenosa,2.27,8.0,377,76,47,sí,sí,5698,socio58@example.org
+PAR-255,Ejea de los Caballeros,2025,8.6,girasol,secano,franca,1.97,8.5,331,40,14,sí,sí,1228,socio11@example.org
+PAR-256,Ejea de los Caballeros,2025,21.7,cebada,secano,arcillosa,0.6,8.4,314,117,44,no,no,2599,socio24@example.org
+PAR-257,Tauste,2025,17.6,trigo,secano,arcillosa,2.39,8.5,314,133,45,no,no,2913,socio25@example.org
+PAR-258,Sádaba,2025,4.2,cebada,secano,franca,1.58,7.7,407,148,49,sí,sí,2831,socio31@example.org
+PAR-259,Luna,2025,8.8,trigo,secano,franca,1.9,7.9,434,69,47,no,no,3903,socio07@example.org
+PAR-260,Ejea de los Caballeros,2025,9.4,cebada,secano,franca,0.93,8.0,276,97,46,no,no,2921,socio12@example.org
+PAR-041,Erla,2025,20.1,cebada,regadío,franca,1.89,7.7,337,103,46,sí,no,7554,socio50@example.org

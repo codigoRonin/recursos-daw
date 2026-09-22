@@ -1,0 +1,11 @@
+parcela_id,municipio,campania,superficie_ha,cultivo,regimen,textura_suelo,materia_organica_pct,ph,lluvia_mm,dosis_n_kg_ha,semana_siembra
+P26-01,Tauste,2026,10.5,maíz,regadío,arcillosa,1.36,8.5,220,212,15
+P26-02,Sádaba,2026,10.4,trigo,secano,franca,0.88,8.7,451,124,44
+P26-03,Tauste,2026,6.9,cebada,regadío,franca,1.81,8.8,320,70,49
+P26-04,Tauste,2026,17.2,trigo,regadío,arcillosa,1.65,8.3,351,103,50
+P26-05,Castejón de Valdejasa,2026,10.3,cebada,regadío,arcillosa,1.23,7.7,343,112,42
+P26-06,Tauste,2026,30.7,trigo,regadío,arenosa,1.44,8.3,395,133,45
+P26-07,Tauste,2026,16.9,girasol,regadío,arenosa,2.23,8.1,302,74,15
+P26-08,Ejea de los Caballeros,2026,10.8,cebada,secano,arcillosa,1.62,8.1,350,102,45
+P26-09,Tauste,2026,17.4,maíz,regadío,franca,1.13,7.4,265,212,17
+P26-10,Tauste,2026,21.5,girasol,regadío,arcillosa,1.19,8.3,308,52,18

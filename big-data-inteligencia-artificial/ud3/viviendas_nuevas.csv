@@ -1,0 +1,9 @@
+id,localidad,tipo,superficie_m2,habitaciones,banos,antiguedad_anios,planta,ascensor,estado,calificacion_energetica,calefaccion
+NUE-01,Sádaba,casa,115,3,2,20,0,no,reformado,C,sí
+NUE-02,Tauste,piso,109,3,2,44,5,sí,bueno,C,sí
+NUE-03,Sádaba,casa,238,6,3,42,0,no,bueno,B,no
+NUE-04,Biota,piso,58,2,1,49,5,sí,reformado,E,no
+NUE-05,Ejea de los Caballeros,casa,137,4,2,34,0,no,bueno,D,sí
+NUE-06,Sos del Rey Católico,casa,111,5,2,10,0,no,bueno,A,sí
+NUE-07,Biota,piso,56,2,1,34,2,sí,reformado,C,sí
+NUE-08,Ejea de los Caballeros,casa,220,6,3,11,0,no,nuevo,C,sí
