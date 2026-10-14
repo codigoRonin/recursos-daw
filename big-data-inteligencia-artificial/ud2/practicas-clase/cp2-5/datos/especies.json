@@ -1,0 +1,15 @@
+{
+  "catalogo": "Especies censadas por la red (nombre común, grupo y estatus en la comarca)",
+  "especies": [
+    {"nombre": "Grulla común", "grupo": "zancuda", "estatus": "de paso"},
+    {"nombre": "Milano real", "grupo": "rapaz", "estatus": "invernante"},
+    {"nombre": "Aguilucho lagunero", "grupo": "rapaz", "estatus": "residente"},
+    {"nombre": "Avutarda común", "grupo": "esteparia", "estatus": "residente"},
+    {"nombre": "Ganga ortega", "grupo": "esteparia", "estatus": "residente"},
+    {"nombre": "Cigüeña blanca", "grupo": "zancuda", "estatus": "residente"},
+    {"nombre": "Garza real", "grupo": "zancuda", "estatus": "residente"},
+    {"nombre": "Ánade azulón", "grupo": "acuática", "estatus": "residente"},
+    {"nombre": "Abejaruco europeo", "grupo": "pequeña", "estatus": "estival"},
+    {"nombre": "Alondra común", "grupo": "pequeña", "estatus": "residente"}
+  ]
+}

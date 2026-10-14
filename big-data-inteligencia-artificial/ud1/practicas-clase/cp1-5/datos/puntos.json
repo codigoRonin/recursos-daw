@@ -1,0 +1,11 @@
+{
+  "red": "Red de observadores de aves de las Cinco Villas (datos ficticios de aula)",
+  "puntos": [
+    {"id": "PUN-01", "nombre": "Soto del Arba", "localidad": "Tauste", "habitat": "soto", "latitud": 41.92, "longitud": -1.25},
+    {"id": "PUN-02", "nombre": "Embalse de San Bartolomé", "localidad": "Ejea de los Caballeros", "habitat": "embalse", "latitud": 42.15, "longitud": -1.12},
+    {"id": "PUN-03", "nombre": "Llanos de Sádaba", "localidad": "Sádaba", "habitat": "estepa", "latitud": 42.26, "longitud": -1.3},
+    {"id": "PUN-04", "nombre": "Monte de Luna", "localidad": "Luna", "habitat": "estepa", "latitud": 42.17, "longitud": -0.93},
+    {"id": "PUN-05", "nombre": "Pinar de Castejón", "localidad": "Castejón de Valdejasa", "habitat": "pinar", "latitud": 41.99, "longitud": -0.98},
+    {"id": "PUN-06", "nombre": "Soto de Pradilla", "localidad": "Pradilla de Ebro", "habitat": "soto", "latitud": 41.86, "longitud": -1.26}
+  ]
+}
