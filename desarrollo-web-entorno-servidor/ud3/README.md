@@ -11,6 +11,8 @@ Ficheros de datos **ficticios** de la unidad 3. Ninguna persona, institución ni
 
 El calendario `salidas.php` de la UD2 se reutiliza tal cual (carpeta `ud2/`).
 
+**Cuaderno de prácticas.** La carpeta `practicas-clase/` contiene los ficheros de partida de las prácticas de clase de la UD3 (no evaluables), una carpeta por práctica (`cp3-1` … `cp3-11`) con su `README.md`. Los enunciados están en la página «Cuaderno de prácticas» de los apuntes del módulo; las soluciones se publican en Classroom después de corregir cada práctica en clase.
+
 ## Contraseñas de aula
 
 Las contraseñas **no** están en los ficheros (solo su hash). Para las pruebas de clase:

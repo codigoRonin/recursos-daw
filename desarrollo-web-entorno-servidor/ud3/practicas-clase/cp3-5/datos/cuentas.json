@@ -1,0 +1,66 @@
+[
+    {
+        "cuenta": "teresa.anso",
+        "persona": "Teresa Ansó",
+        "contacto": "teresa.anso@example.org",
+        "perfil": "hortelano",
+        "parcela": "H03",
+        "hash": "$2y$10$exQTKdD45p6DBTi/djaA9.hAl8/qcF8GHcHeuiqb8aesgllFq4PSO"
+    },
+    {
+        "cuenta": "mateo.larraz",
+        "persona": "Mateo Larraz",
+        "contacto": "mateo.larraz@example.org",
+        "perfil": "hortelano",
+        "parcela": "H01",
+        "hash": "$2y$10$MwxzYvNKec9k1RXYCfjwzeCxxWGfG6yAbrvB/3LBxAf/OKWCT5oWC"
+    },
+    {
+        "cuenta": "julia.berges",
+        "persona": "Julia Bergés",
+        "contacto": "julia.berges@example.org",
+        "perfil": "hortelano",
+        "parcela": "H04",
+        "hash": "$2y$04$mIiT7flHLBHwY1PqgMIvXOi6.BG4kk44vFDsI60m8MQA60Pf31SHe"
+    },
+    {
+        "cuenta": "ruben.asin",
+        "persona": "Rubén Asín",
+        "contacto": "ruben.asin@example.org",
+        "perfil": "hortelano",
+        "parcela": "H06",
+        "hash": "$2y$10$crLrQrUER/i.6nFDIzTF7e3KPuHKekzOEyuGVtU3Hh2Ex6uAxPPBO"
+    },
+    {
+        "cuenta": "noa.lecina",
+        "persona": "Noa Lecina",
+        "contacto": "noa.lecina@example.org",
+        "perfil": "hortelano",
+        "parcela": "H08",
+        "hash": "$2y$10$k7mog23QA1E5UvXV5EorEOgkQmalN1VYYeJ/0TOmqVOqVT2Vw9kvC"
+    },
+    {
+        "cuenta": "ibai.sanjuan",
+        "persona": "Ibai Sanjuán",
+        "contacto": "ibai.sanjuan@example.org",
+        "perfil": "vocal",
+        "parcela": null,
+        "hash": "$2y$04$J1ka0KKZoEAnfqh.p1YHyeXkJ5egapEnxamsu9gHrxSIUAn9JSf5G"
+    },
+    {
+        "cuenta": "aitor.lambea",
+        "persona": "Aitor Lambea",
+        "contacto": "aitor.lambea@example.org",
+        "perfil": "vocal",
+        "parcela": null,
+        "hash": "$2y$10$o/33mhfYshdmpMZNUmfi2ehAmZi1n9w0030G5tW9h4LP40ERnDh5O"
+    },
+    {
+        "cuenta": "olga.pardo",
+        "persona": "Olga Pardo",
+        "contacto": "olga.pardo@example.org",
+        "perfil": "presidencia",
+        "parcela": null,
+        "hash": "$2y$10$5jPsnwuNaD8C4mjysfhK1uN4VKUcNet0I/ufYIj8BqeyaOTvT4SOa"
+    }
+]
