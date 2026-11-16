@@ -1,0 +1,13 @@
+{# leer/twig/base.html.twig — el layout: declara los bloques «rotulo» y «contenido» #}
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>{% block rotulo %}{% endblock %} · Asociación de Huertos del Soto</title>
+</head>
+<body>
+<main>
+{% block contenido %}{% endblock %}
+</main>
+</body>
+</html>

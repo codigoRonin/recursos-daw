@@ -1,0 +1,17 @@
+{# leer/twig/mercadillo.html.twig — recibe: dia, paradas, destacada (la referencia de la parada del mes) #}
+{% extends 'base.html.twig' %}
+
+{% block rotulo %}Mercadillo{% endblock %}
+
+{% block cuerpo %}
+{# Pendiente: Rubén Asín no ha pagado la tasa de su parada #}
+<h1>Mercadillo de la cosecha · {{ $dia }}</h1>
+<p>Parada del mes: la de la parcela {{ destacada }}</p>
+<ul>
+{% for parada in paradas %}
+{{ include('parciales/parada.html.twig') }}
+{% else %}
+    <li>Este domingo no hay paradas.</li>
+{% endfor %}
+</ul>
+{% endblock %}
