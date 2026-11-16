@@ -2,6 +2,8 @@
 
 La UD4 no empieza de cero: parte de la **zona privada del Club de Montaña Os Ibones** tal como quedó al final de la UD3. La carpeta `partida/` trae esos ficheros por si alguno no te quedó completo. Son los que imprime la UD3, sin ningún cambio. El club y sus datos son **ficticios**: ninguna persona, institución ni empresa real; correos en `example.org`.
 
+**Cuaderno de prácticas.** La carpeta `practicas-clase/` contiene los ficheros de partida de las prácticas de clase de la UD4 (no evaluables), una carpeta por práctica (`cp4-1`, `cp4-2`…) con su `README.md`. Trabajan sobre otro caso, la Asociación de Huertos del Soto, y no se copian a tu carpeta `ud4/`. Los enunciados están en la página «Cuaderno de prácticas» de los apuntes del módulo; las soluciones se publican en Classroom después de corregir cada práctica en clase.
+
 ## Qué copiar a tu carpeta `ud4/`
 
 Los nueve guiones y la carpeta `datos/` que pide la portada de la unidad:
