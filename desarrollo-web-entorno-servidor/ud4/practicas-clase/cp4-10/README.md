@@ -7,10 +7,12 @@ Una aplicación pequeña de la asociación, ya repartida en carpetas. Solo se si
 - `plantillas/`: el layout, una plantilla por página y `parciales/enlace.php`, el enlace del menú.
 - `plantillas.php`: el fichero del apartado 4 de la unidad, tal cual.
 
-Se sirve desde esta carpeta, diciéndole al servidor cuál es la suya, y se prueba con `curl` y `grep`:
+Se sirve con PHP Server, con esta carpeta abierta en VS Code. Solo se sirve `web/`: el ajuste viene hecho en `.vscode/settings.json` (`"phpserver.relativePath": "web"`), y es lo mismo que lanzar a mano, desde esta carpeta:
 
 ```
-php -d display_errors=1 -d html_errors=0 -S localhost:8000 -t web
+php -S localhost:3000 -t web
 ```
+
+Las direcciones no llevan `web/` (`http://localhost:3000/avisos.php`). Se prueba en el navegador (la página, «Ver código fuente» y la pestaña Red) y, en el terminal, con `grep`.
 
 Enunciado en el cuaderno de prácticas del módulo (página «Cuaderno de prácticas», sección UD4).
