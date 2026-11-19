@@ -5,6 +5,6 @@
 - `avisos.js`: se te da escrito; no hay que modificarlo.
 - `datos/avisos.php`: los seis avisos de la semana.
 
-Se sirve con `php -S localhost:8000` desde esta carpeta. Se prueba con `curl` y, después, con el navegador y su pestaña Red.
+Se sirve con PHP Server, con esta carpeta abierta en VS Code (`http://localhost:3000/avisos-servidor.php`). Se prueba en el navegador: la página, «Ver código fuente» y la pestaña Red.
 
 Enunciado en el cuaderno de prácticas del módulo (página «Cuaderno de prácticas», sección UD4).

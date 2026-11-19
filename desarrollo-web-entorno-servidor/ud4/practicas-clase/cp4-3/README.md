@@ -8,6 +8,6 @@
 - `utilidades.php`: `zonas_por_ref()`.
 - `datos/parcelas.php` y `datos/turnos.php`: las ocho parcelas y los siete turnos de la semana.
 
-Se sirve con `php -d display_errors=1 -d html_errors=0 -S localhost:8000` desde esta carpeta y se prueba con `curl`.
+Se sirve con PHP Server, con esta carpeta abierta en VS Code (`http://localhost:3000/cuadrante.php`), y se prueba en el navegador: la página, «Ver código fuente» y la pestaña Red. Los errores tienen que verse en la página; si en tu equipo no se ven, lanza el servidor a mano desde esta carpeta con `php -d display_errors=1 -S localhost:3000`.
 
 Enunciado en el cuaderno de prácticas del módulo (página «Cuaderno de prácticas», sección UD4).

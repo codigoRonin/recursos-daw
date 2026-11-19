@@ -47,10 +47,10 @@ Las contraseñas **no** están en los ficheros (solo su hash). Son las de la UD3
 
 ## Cómo comprobar que has copiado bien
 
-Desde tu carpeta `ud4/`, con el servidor lanzado (`php -S localhost:8000`):
+Con la raíz de tu repositorio abierta en VS Code y PHP Server lanzado (portada de la unidad, «Entorno de trabajo»), abre una ventana de incógnito de Chrome, con la pestaña Red a la vista, y pide `http://localhost:3000/ud4/mi-ficha.php`. Acabas en el formulario de inicio de sesión, y la fila de `mi-ficha.php` dice por qué:
 
 ```
-$ curl -s -i http://localhost:8000/mi-ficha.php | grep -E "HTTP|Location"
+Red › mi-ficha.php › Encabezados de respuesta
 HTTP/1.1 302 Found
 Location: login.php
 ```

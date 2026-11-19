@@ -6,6 +6,6 @@
 - `comun/utilidades.php`: `dia_largo()`, `guardar_pagina()` y `fichero_de_zona()`.
 - `datos/boletin.php`, `datos/avisos.php` y `datos/parcelas.php`: el número y las normas del boletín, los seis avisos y las ocho parcelas.
 
-Las páginas generadas se guardan en `sitio/`, que crea el propio guion. Para verlas servidas: `php -S localhost:8000 -t sitio`.
+Las páginas generadas se guardan en `sitio/`, que crea el propio guion. Para verlas servidas, y solo ellas, PHP Server necesita el ajuste `phpserver.relativePath` con el valor `sitio`: lo explica la tarea (d) del enunciado (`http://localhost:3000/boletin.html`).
 
 Enunciado en el cuaderno de prácticas del módulo (página «Cuaderno de prácticas», sección UD4).
