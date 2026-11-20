@@ -1,0 +1,6 @@
+mes,hora_inicio,duracion_h,viento_kmh,observadores,habitat
+11,8,3.0,12,2,embalse
+10,9,2.0,8,3,pinar
+3,7,3.5,20,1,soto
+5,16,1.5,5,4,estepa
+9,10,2.5,30,2,soto

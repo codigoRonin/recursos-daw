@@ -13,3 +13,7 @@ Datos **ficticios de aula** para la unidad de aprendizaje automático: los lugar
 - `parcelas_2026.csv` — 10 parcelas de la campaña 2026, sin rendimiento ni plaga: las que la cooperativa quiere anticipar.
 
 Los ficheros son los de referencia del enunciado: no se modifican; toda transformación se hace en código y se documenta en `DECISIONES.md`.
+
+## Cuaderno de prácticas
+
+- `practicas-clase/` — ficheros de partida de las prácticas de clase de la unidad (no evaluables), sobre la red de observadores de aves del cuaderno. Tiene su propio `README.md`.
