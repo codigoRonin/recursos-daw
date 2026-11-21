@@ -8,7 +8,7 @@ SET NAMES utf8mb4;
 CREATE DATABASE IF NOT EXISTS transporte;
 USE transporte;
 
-DROP TABLE IF EXISTS solicitudes, viajes, ruta_parada, viajeros, conductores, vehiculos, paradas, rutas;
+DROP TABLE IF EXISTS validaciones, solicitudes, viajes, ruta_parada, viajeros, conductores, vehiculos, paradas, rutas;
 
 CREATE TABLE rutas (
     cod_ruta    CHAR(2)      PRIMARY KEY,
