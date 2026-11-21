@@ -3,6 +3,8 @@
 -- Pégalo entero en una pestaña de consulta y ejecútalo completo. Se puede ejecutar tantas veces como haga falta:
 -- cada vez deja las ocho tablas como al principio.
 
+SET NAMES utf8mb4;
+
 CREATE DATABASE IF NOT EXISTS transporte;
 USE transporte;
 
